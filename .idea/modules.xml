@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/imooc-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/imooc-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-weather-eureka-client/micro-weather-eureka-client.iml" filepath="$PROJECT_DIR$/micro-weather-eureka-client/micro-weather-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-weather-eureka-client-feign/micro-weather-eureka-client-feign.iml" filepath="$PROJECT_DIR$/micro-weather-eureka-client-feign/micro-weather-eureka-client-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-weather-eureka-server/micro-weather-eureka-server.iml" filepath="$PROJECT_DIR$/micro-weather-eureka-server/micro-weather-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-city-eureka/msa-weather-city-eureka.iml" filepath="$PROJECT_DIR$/msa-weather-city-eureka/msa-weather-city-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-collection-server/msa-weather-collection-server.iml" filepath="$PROJECT_DIR$/msa-weather-collection-server/msa-weather-collection-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msa-weather-data-eureka/msa-weather-data-eureka.iml" filepath="$PROJECT_DIR$/msa-weather-data-eureka/msa-weather-data-eureka.iml" />
+    </modules>
+  </component>
+</project>
