@@ -11,5 +11,8 @@ public class IndexControoler {
         return "这是我的第一个springboot2.0项目";
     }
 
+    public static void main(String[] args) {
+        System.out.println("sdf");
+    }
 
 }
